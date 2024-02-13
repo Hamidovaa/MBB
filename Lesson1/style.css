@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.grey{
+    height: 100vh;
+    background-color: #808080;
+}
+.head1{
+    width: 70%;
+    margin: auto;
+    margin-bottom: 15px;
+    color: white;
+}
+.head2{
+    width: 80%;
+    margin: auto;
+    color: white;
+}
+h1{
+    text-align: center;
+    padding: 15px;
+}
+p{
+    text-align: justify;
+    padding: 10px 0 10px 0;
+}
+.box{
+    margin-top: 10px;
+    border: 3px solid black;
+    width: 20%;
+    height: 250px;
+    padding: 15px;
+    display: inline-block;
+   background-color: white;
+}
+.allbox{
+    text-align: center;
+}
+.img{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    border-bottom:2px solid black;
+    margin-bottom: 20px;
+}
+img{
+    width: 100%;
+    background-size: contain;
+    padding: 15px;
+}
+h2{
+    text-align: left;
+    text-transform: capitalize;
+}
+h3{
+    text-align: left;
+    margin-bottom: 20px;
+}
