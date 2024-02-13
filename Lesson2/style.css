@@ -1,0 +1,31 @@
+.box{
+    display: flex;
+    width: 70%;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+
+}
+.content{
+    width: 35%;
+}
+.photo{
+    width: 35%;
+}
+h1{
+    text-transform: capitalize;
+}
+p{
+    padding: 15px 0;
+    color: grey;
+}
+a{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+}
+img{
+    width: 70%;
+}
