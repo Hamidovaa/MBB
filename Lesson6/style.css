@@ -1,0 +1,80 @@
+.navs{
+    background-color: #052F48 ;
+    .topnavbar{
+        li{
+            list-style: none;
+            margin-right: 8px;
+            color: white;
+        }
+    }
+}
+
+.iconhover:hover{
+    cursor: pointer;
+}
+.iconhover{
+    padding: 8px;
+    background-color:#4F86F9;
+    color: white;;
+}
+.left{
+    padding-right: 20px;
+    i{
+        color: #4F86F9; 
+    }
+}
+small{
+    color: #4f86f9;
+}
+.navbar-brand span {
+    color: #a6a6a6;
+    line-height: 1.1;
+    text-transform: uppercase;
+    font-size: 11px;
+    display: block;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+.whi{
+    color: black;
+    font-weight: 700;
+    font-size: 35px;
+}
+.blue{
+    color: #4F86F9;
+    font-weight: 700;
+    font-size: 35px;
+}
+.bottomnavbar{
+    background-color: #052C43;
+}
+.carousel-item{
+    height: 85vh;
+    img{
+        object-fit: cover;
+        height: 100%;
+    }
+}
+.carousel-caption{
+    h1{
+        font-weight: 400;
+        color: #fff;
+        font-size: 60px;
+        line-height: 1.2; 
+    }
+}
+.btn{
+    background: #fff !important;
+    border: 1px solid #fff !important;
+    color: #4f86f9 !important;
+    padding: 8px 45px;
+}
+.carousel-caption {
+    margin: auto;
+    width:40%;
+    position: absolute;
+    top: 25%;
+    left: 15%;
+    color: #fff;
+    text-align: center;
+}

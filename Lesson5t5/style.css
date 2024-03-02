@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #212529;
+    color: white;
+}
+.nav{
+    margin: auto;
+}
+.navbar-nav{
+    flex-direction: row;
+}
+.content{
+    margin: auto;
+    text-align: center;
+    h1{
+        letter-spacing: 1.5px;
+    }
+    p{
+        letter-spacing: 1px;
+        font-size: 18px;
+    }
+    button{
+        font-weight: 600 !important;
+    }
+}
+.btn{
+    margin-top: 15px !important;
+    background-color: white;
+    color: black;
+    margin: auto;
+}
+.home{
+    span{
+        border-bottom: 4px solid white ;  
+    }  
+}
